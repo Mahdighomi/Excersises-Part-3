@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Excersises\Excersises\bin\Debug\net8.0\Excersises.exe
+C:\Users\user\source\repos\Excersises\Excersises\bin\Debug\net8.0\Excersises.deps.json
+C:\Users\user\source\repos\Excersises\Excersises\bin\Debug\net8.0\Excersises.runtimeconfig.json
+C:\Users\user\source\repos\Excersises\Excersises\bin\Debug\net8.0\Excersises.dll
+C:\Users\user\source\repos\Excersises\Excersises\bin\Debug\net8.0\Excersises.pdb
+C:\Users\user\source\repos\Excersises\Excersises\obj\Debug\net8.0\Excersises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Excersises\Excersises\obj\Debug\net8.0\Excersises.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Excersises\Excersises\obj\Debug\net8.0\Excersises.AssemblyInfo.cs
+C:\Users\user\source\repos\Excersises\Excersises\obj\Debug\net8.0\Excersises.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Excersises\Excersises\obj\Debug\net8.0\Excersises.sourcelink.json
+C:\Users\user\source\repos\Excersises\Excersises\obj\Debug\net8.0\Excersises.dll
+C:\Users\user\source\repos\Excersises\Excersises\obj\Debug\net8.0\refint\Excersises.dll
+C:\Users\user\source\repos\Excersises\Excersises\obj\Debug\net8.0\Excersises.pdb
+C:\Users\user\source\repos\Excersises\Excersises\obj\Debug\net8.0\Excersises.genruntimeconfig.cache
+C:\Users\user\source\repos\Excersises\Excersises\obj\Debug\net8.0\ref\Excersises.dll
